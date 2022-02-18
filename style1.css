@@ -1,0 +1,46 @@
+.body{
+       margin: 0px;
+       padding: 0px;
+}
+.h2{
+    text-decoration-color:blue;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+     margin: 0px;
+     padding: 0px;
+}
+
+.h1{
+    padding: 0px;
+    margin: 0px;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: black;
+}
+.p1{
+    padding: 0px;
+    margin: 0px;
+}
+.nav{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.font-A{
+    font-family: 'Roboto Mono', monospace;
+    
+}
+.font-B{
+    font-family: 'Abril Fatface', cursive;
+}
+.font-light-A{
+    font-family: 'Roboto Mono', monospace;
+}.font-C{
+    font-family: 'Oswald', sans-serif;
+}
+.bg1{
+    background-image: url("image/bglead1.jpg");
+    width: 100%;
+    height: 600px;
+}
